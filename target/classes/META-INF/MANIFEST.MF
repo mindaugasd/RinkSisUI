@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: rink-sis
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: mindaugasd
+Implementation-Vendor-Id: lt.akademija.javatech
+Build-Jdk: 1.8.0_101
+Implementation-URL: http://projects.spring.io/spring-boot/rink-sis/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
